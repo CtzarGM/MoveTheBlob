@@ -13,3 +13,14 @@ Clone the repo and open in Unity 2022.3 LTS or later.
 
 ```bash
 git clone https://github.com/CtzarGM/MoveTheBlob.git
+```
+Then open MainScene.unity inside Unity Hub.
+
+🎮 Controls
+Move the blob: Arrow keys or WASD
+
+👤 Author
+CtzarGM Aspiring solo developer building skills in Unity, art pipelines, and game design.
+
+📜 License
+Code: MIT License Art: Creative Commons BY-NC 4.0
