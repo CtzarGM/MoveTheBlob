@@ -25,4 +25,5 @@ CtzarGM Aspiring solo developer building skills in Unity, art pipelines, and gam
 ## 📜 License
 - **Code**: [MIT License](LICENSE)
 - **Art Assets**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
+## 📷 Preview
+![MoveTheBlob Gameplay](Assets/Screenshots/MoveTheBlob_CgzQ6J3kpR.gif)
