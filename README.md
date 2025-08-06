@@ -22,5 +22,7 @@ Move the blob: Arrow keys or WASD
 👤 Author
 CtzarGM Aspiring solo developer building skills in Unity, art pipelines, and game design.
 
-📜 License
-Code: MIT License Art: Creative Commons BY-NC 4.0
+## 📜 License
+- **Code**: [MIT License](LICENSE)
+- **Art Assets**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
