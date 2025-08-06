@@ -16,10 +16,10 @@ git clone https://github.com/CtzarGM/MoveTheBlob.git
 ```
 Then open MainScene.unity inside Unity Hub.
 
-🎮 Controls
+## 🎮 Controls
 Move the blob: Arrow keys or WASD
 
-👤 Author
+## 👤 Author
 CtzarGM Aspiring solo developer building skills in Unity, art pipelines, and game design.
 
 ## 📜 License
